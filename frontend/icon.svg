@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="mocha-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4A373" />
+      <stop offset="50%" stop-color="#E3CAA5" />
+      <stop offset="100%" stop-color="#A98467" />
+    </linearGradient>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF6F0" />
+      <stop offset="100%" stop-color="#F5EBE6" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg-grad)" />
+  <circle cx="256" cy="240" r="150" fill="none" stroke="url(#mocha-grad)" stroke-width="6" opacity="0.6" />
+  <path d="M256,120 C220,120 180,160 180,220 C180,280 230,300 256,350 C282,300 332,280 332,220 C332,160 292,120 256,120 Z" fill="none" stroke="url(#mocha-grad)" stroke-width="12" stroke-linejoin="round" />
+  <path d="M210,210 C225,195 287,195 302,210" fill="none" stroke="#2C1A11" stroke-width="6" stroke-linecap="round" />
+  <circle cx="256" cy="270" r="12" fill="#2C1A11" />
+  <text x="256" y="440" font-family="'Playfair Display', 'Didot', 'Georgia', serif" font-size="28" font-weight="900" fill="#2C1A11" text-anchor="middle" letter-spacing="6">LIV'S</text>
+  <text x="256" y="475" font-family="'Plus Jakarta Sans', 'Montserrat', sans-serif" font-size="14" font-weight="700" fill="#A98467" text-anchor="middle" letter-spacing="4">BEAUTY SALON</text>
+</svg>

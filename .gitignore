@@ -1,0 +1,29 @@
+# Maven & Build Target
+backend/target/
+target/
+*.jar
+*.war
+*.ear
+
+# IDE and Project Settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.metadata/
+
+# Database and Log files
+*.db
+*.log
+*.lock.db
+*.trace.db
+
+# OS Temporary Files
+.DS_Store
+Thumbs.db
+
+# Packaged Zip Archive
+*.zip
+search_node.py

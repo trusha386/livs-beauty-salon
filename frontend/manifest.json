@@ -1,0 +1,24 @@
+{
+  "name": "LIV'S BEAUTY SALON - Management System",
+  "short_name": "LivsSalon",
+  "description": "Premium beauty salon management and stylist commission tracking system.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#E3CAA5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
