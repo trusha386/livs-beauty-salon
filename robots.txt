@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://livs-beauty-salon.vercel.app/sitemap.xml
